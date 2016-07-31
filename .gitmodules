@@ -1,0 +1,10 @@
+[submodule "themes/detox"]
+	path = themes/detox
+	url = https://github.com/allnightgrocery/hugo-theme-blueberry-detox.git
+[submodule "themes/zen"]
+	path = themes/zen
+	url = https://github.com/rakuishi/hugo-zen.git
+[submodule "public"]
+	path = public
+	url = git@github.com:cdecker/heerlager.ch.git
+	branch = gh-pages

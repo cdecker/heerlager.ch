@@ -1,0 +1,7 @@
+baseurl = "https://heerlager.ch/"
+languageCode = "de-ch"
+title = "Mittelalterliches Heerlager Schweiz"
+theme = "zen"
+
+[params]
+logo      = "/images/logo.png"
