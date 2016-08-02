@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mittelalterliches Heerlager Schweiz</title>
+    <link>https://heerlager.ch/</link>
+    <description>Recent content on Mittelalterliches Heerlager Schweiz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Fri, 01 Jan 2016 17:12:33 +0200</lastBuildDate>
+    <atom:link href="https://heerlager.ch/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sind bald wieder da</title>
+      <link>https://heerlager.ch/post/well-be-back/</link>
+      <pubDate>Fri, 01 Jan 2016 17:12:33 +0200</pubDate>
+      
+      <guid>https://heerlager.ch/post/well-be-back/</guid>
+      <description>&lt;p&gt;Das mittelalterliche Heerlager Schweiz wird ab 2017 wieder voll da sein.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
